@@ -20,4 +20,4 @@ I'm haxibami (IPA: [haʃibamʲi], 漢字: 榛).
 [![Editor: neovim](https://img.shields.io/badge/Editor-Neovim-brightgreen?style=flat-square&logo=neovim)](https://neovim.io)
 [![Editor: VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com)
 [![Always: Sleeping](https://img.shields.io/badge/💤%20Always-Sleeping-red?style=flat-square)](https://haxibami.github.io)
-[![Love: Sprinkling](https://img.shields.io/badge/♡%20Love-Sprinkling-ff69b4?style=flat-square)](https://haxibami.github.io)
+[![Love: Emitting](https://img.shields.io/badge/♡%20Love-Emitting-ff69b4?style=flat-square)](https://haxibami.github.io)
