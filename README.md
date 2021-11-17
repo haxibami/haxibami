@@ -13,7 +13,7 @@ I'm haxibami (IPA: [haʃibamʲi], 漢字: 榛).
 - 💬 Ask me about anything.
 - 📫 How to reach me: [@haxibami](https://twitter.com/haxibami)
 - 😄 Pronouns: he/him, but I'm nobody at all🎩.
-- ⚡ Fun fact: I recently visited 'maid cafe' in Akihabara!
+- ⚡ Recent Activity: Shoujo☆Kageki Revuestarlight is a great film!
 
 [![OS: Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![OS: Windows 10](https://img.shields.io/badge/OS-Windows%2010-blue?style=flat-square&logo=windows)](https://microsoft.com/windows)
