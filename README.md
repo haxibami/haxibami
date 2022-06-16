@@ -1,13 +1,15 @@
-## Hi there!
+## Meta
 
-[![Always: Sleeping](https://img.shields.io/badge/Always-Sleeping-red)](https://www.haxibami.net) :zzz:
+| key                      | val                                                         |
+| ------------------------ | ----------------------------------------------------------- |
+| :sunglasses: Name        | haxibami ([haɕibamʲi], 端食)                                |
+| :pencil: Education       | :mortar_board: student (the Univ. of Tokyo :tokyo_tower:)   |
+| :earth_asia: Locale      | :jp: Japan                                                  |
+| :kissing_heart: Interest | :globe_with_meridians: web, :penguin: Linux, :computer: OSS |
 
-| key                      | val                                                              |
-| ------------------------ | ---------------------------------------------------------------- |
-| :sunglasses: name        | haxibami (IPA: [haɕibamʲi], 漢字: 端食)                          |
-| :pencil: job             | :mortar_board: student (Univ. of Tokyo :tokyo_tower:)            |
-| :earth_asia: locale      | :jp: ja (native), :uk: en, :ru: ru                               |
-| :kissing_heart: interest | :globe_with_meridians: web, :penguin: Linux, :computer: hardware |
+Let's pronounce:
+
+`Humanity & Social sciences I, Junior Division, College of Arts & Sciences, the Univ. of Tokyo`
 
 ## Stats
 
@@ -23,7 +25,7 @@
 
 ## Links
 
-- :butterfly: [Portfolio](https://www.haxibami.net)
+- :butterfly: [Profile](https://www.haxibami.net)
 - :pencil: [Blog](https://www.haxibami.net/blog)
 - :bird: [Twitter](https://twitter.com/haxibami)
 - :key: [Keybase](https://keybase.io/haxibami)
